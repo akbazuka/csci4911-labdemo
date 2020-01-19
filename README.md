@@ -1,2 +1,2 @@
 # csci4911-labdemo
-FIrst assignment for Software Poject 1
+Software Project Assignment 1
